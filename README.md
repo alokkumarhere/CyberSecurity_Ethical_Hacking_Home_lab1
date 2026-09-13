@@ -1,4 +1,4 @@
-# 🛡️ Enterprise-Grade Cybersecurity & Ethical Hacking Home Lab
+# 🛡️Cybersecurity & Ethical Hacking Home Lab
 
 A fully isolated, multi-node virtualized cybersecurity laboratory built using Oracle VirtualBox, Kali Linux, and Windows target endpoints. Designed for safe penetration testing, vulnerability assessment, network enumeration, and defensive security research.
 
